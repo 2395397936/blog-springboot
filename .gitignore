@@ -1,0 +1,9 @@
+# Project exclude paths
+/blog-api/target/
+/common/common_swagger/target/
+/common/common_user/target/
+/common/common_utils/target/
+/email/target/
+/gateway/target/
+/oss/target/
+/user-api/target/
